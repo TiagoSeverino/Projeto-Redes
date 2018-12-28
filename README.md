@@ -11,7 +11,7 @@
 ### 2x Sensor Temperatura - TPA81
  - Lê a temperatura de um objeto (até 2 metros de distância).
 
-### 1x Giroscópio - CMPS11
+### 1x Giroscópio - CMPS10
  - Mantem a direção do veiculo linear, e permite a rotação de 90º.
 
 ## Atuadores
