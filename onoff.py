@@ -1,7 +1,7 @@
 import time
 import RPi.GPIO as GPIO
 
-class LED():
+class OnOff():
 
 	BlinkTime = 0.1
 
